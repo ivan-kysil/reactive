@@ -4,7 +4,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Consumer;
 import java.util.function.Supplier;
 
-public class Multithreading {
+public class MultithreadingApp {
 
     public static int counter = 0;
     public static AtomicInteger atomicCounter = new AtomicInteger(0);

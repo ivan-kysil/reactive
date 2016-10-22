@@ -1,11 +1,6 @@
 import rx.Observable;
-import rx.Subscription;
-import rx.functions.Action1;
-import rx.observers.Observers;
 import rx.schedulers.Schedulers;
 
-import java.sql.SQLOutput;
-import java.util.ArrayList;
 import java.util.concurrent.*;
 import java.util.function.Consumer;
 
